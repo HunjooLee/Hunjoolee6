@@ -1,0 +1,26 @@
+{
+  "name": "Steve Erickson",
+  "age": 56,
+  "address": {
+    "street": "Idude Place",
+    "city": "Worinwav",
+    "state": "WA",
+    "zip": "30322"
+  },
+  "contact": {
+    "phone": "(844) 736-7307",
+    "servicePhone": "800345515"
+  },
+  "birthday": "1972-05-16T17:18:09.249Z",
+  "ip": "32.126.123.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Ca ateju atusi es rami zafdal riej buj nati kiw ejelo uv aw ze ciwas afi la wuhofu. Zad camelli givofkah taahroj su inaksov ukocan me gar wunzo ralu vi hirohcuz kaneh apekin. Et zu hilojokuh fabfaril ve zat guzof tagluvdus resaw jer dutapi ob tivci umnen ka neupa ve.",
+    "bio": "Dihirta cebi ku peese cin jo itakfi fuwet miva diamwe rog febvebeb jotagco. Ore piz ol onijajceh are micsocbo dirosi ramger wima ur vealone asa nogvi. Gaca imunedri duavaac wodmal jakobul ih emibi epuuni latuhkod dodcim findaltu ijfof fuoso torepvo ipezizba vebirjat cokos bepur. Worovhe loz mo fehitauwa talcika op uk sepul geklagfaj vejgukwap ic fucwap okjidog do ke zehse. Ridcogtuc ibap kuguvse rake wop riozi wodwo zijawpus pizuh ubomera gubah da ewogu ot fuas aju. Efuranon fukcuti wecuwo uwawer egiitla ruhe zo doginoco maruhaug ev ves pivujca dizpeno."
+  },
+  "apiKey": "0f7ab74df359052ffdc4d8095210c1cf9fb836f6133b9ec808ce622d5b605d1f",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
