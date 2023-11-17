@@ -1,0 +1,26 @@
+{
+  "name": "Georgie Thomas",
+  "age": 18,
+  "address": {
+    "street": "Vevje Extension",
+    "city": "Lekwehi",
+    "state": "MD",
+    "zip": "76374"
+  },
+  "contact": {
+    "phone": "(233) 543-7239",
+    "servicePhone": "800974867"
+  },
+  "birthday": "1979-04-18T19:07:23.770Z",
+  "ip": "147.85.128.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Nigagi cilatu rakne zognoz miudala ciwjug tos notor han ase minzufla ofa pudjaiw hi mig docojo. Ogirmo dosfigaco vidofiz belos didze pic nada hap ti co umeoji wokojuba ig va megrinof giko vucube. Mihdo cashuni ceujusu vuv zapdewfa avicafaw wu cokdu pev miputbo iwburtoj solmohge vomgim.",
+    "bio": "Ene hovgata gofbu ke ikegeb fihuza vamolsas fa vanzoc dehjiesi ka amacuhe cuzcerara je su cimeh unocomal fod. Zogje junesi owjazlen woliate bihku mara lamo kacral ji kehul topugi jimoup ratu ba vu un. Nu hecogi luro ihne ehdukna buvorifi zokezbi ucecus mosgemhiv wuhihu jad biwa lite dudvar utalol."
+  },
+  "apiKey": "c4654081aa340161b678cd06e9994c1f23410df1e5e1e65e5322cab8e54c275f",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
