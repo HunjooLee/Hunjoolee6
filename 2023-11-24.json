@@ -1,0 +1,26 @@
+{
+  "name": "Louise Robinson",
+  "age": 20,
+  "address": {
+    "street": "Lekki River",
+    "city": "Fursiva",
+    "state": "OK",
+    "zip": "39601"
+  },
+  "contact": {
+    "phone": "(340) 815-1152",
+    "servicePhone": "800271498"
+  },
+  "birthday": "1963-06-29T20:03:57.837Z",
+  "ip": "119.1.222.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Ozpiwo muekzap gumooci azu fifob ke couhu wikfuzi feug lila ru nogmuc givi jiinubul unu sa. Vufdotda paipona me pispij toc udcebgor ej he tirmil kuphuwuz ukgem dic. Ta olziwo soguhuz jirabo ile wowhowef ba toud ti kebuj ibu raclu memses bebjoga gikraj waror su.",
+    "bio": "Bactim gasas jo sunup sugosa kig bavri hiha cagofze fini leaculip pul zuv. Rop buksacza apwo teh osnona zo jireguca ka bubjahbeg zetognof hapiis gomas zewmara. Iva jofpejda jep biwikraf va itenam gapzodi mophulzel roce tirfa hubtulus nitavoto vojmadmut. Opuhup guzvor mutis luk kemobhi ramcad ilolul kotob ve atino uporu tobemu le."
+  },
+  "apiKey": "16874d3e7a9b0d15c0327758aa09062126cbf7b1a2f93b46d452792b06da8cf0",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
