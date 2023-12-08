@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Pratt",
+  "age": 59,
+  "address": {
+    "street": "Tiwo Glen",
+    "city": "Ehdabka",
+    "state": "FL",
+    "zip": "15011"
+  },
+  "contact": {
+    "phone": "(359) 793-2411",
+    "servicePhone": "800682911"
+  },
+  "birthday": "2002-07-22T09:49:32.042Z",
+  "ip": "35.188.188.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Ri fohicage jana nipaca bakidhah inkezri mu se ki donwow loz vota milzel bihofi la bahapit. Fuwujwek oc opgicwo ir bizo zev iz levvi kundoodo howi mabojbe jani gu fovne vesoha guwuuru. Ja je kumobidi rohortel bupav vucevpec haffoj huh pivci sadfulru parnarji noc fimdoj vew fi magboffoc.",
+    "bio": "Ichah fepe iluof eno iwattak lazamulu sico po buj sumusja osijal pedanzib id rehtikalo dirfizzon wipu rumojit. Kipubobit nugap wiceop dujsirket puhiab ok sibi her hevrijek nuvu ada odo nawa. Ri ifavinet mib vapidab se labde rokino gutu urafe ugget pin zujpihile iza rocze. Sokrijen pepen uzwiguhe vetot wetroh ughojsev iral fa ala parla bomiful cus."
+  },
+  "apiKey": "2c2b985bebcf18a5922cb2137831d07de3cb4658dddc48d7c25b507292d4d06d",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
