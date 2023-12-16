@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Reed",
+  "age": 33,
+  "address": {
+    "street": "Pufok Heights",
+    "city": "Fujudser",
+    "state": "KS",
+    "zip": "02736"
+  },
+  "contact": {
+    "phone": "(328) 784-9958",
+    "servicePhone": "800752961"
+  },
+  "birthday": "1964-09-08T05:44:16.888Z",
+  "ip": "22.109.44.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Fib sik aba fubzowor na dufaebi tifho su wabsa colgi zegepju ti molnoaca mubesoza fivzujuk. Fienu cu viste haga ijo zafaja mecam su geza ta ugi or sastoev re cu saf weha mobijeh. Wozsalga res renej otazeczi haan jenlak pozochu lozu ug fetulolon ene fad. Vaidrih liv fumdu hub lishu ha lac tikvopoz jimowa be fausi jaemku hiroznog.",
+    "bio": "Huzajvi lackicip cidula ejeosa ontivsa uboku dectupuv ehna jubud tomafbo jewil ji fid hag neis. Dezar ceh eke za cunanu evgital vantiv ibkiw tagupta rop at one nirefawic cenked leh pimuwpes vugoddic omgur. Zonurpug tusu vuv jubmo ka sup no pufrac zuhe jij memec juwciad. Aji nelot us itsej pa ekovolet zuk ovekeg tikviip nehalarot asiba tasoc."
+  },
+  "apiKey": "a8edb4de947e6f6df78d28c2400810fb6d147496c8a5510feb7bde5fe33531b8",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
