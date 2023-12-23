@@ -1,0 +1,26 @@
+{
+  "name": "Jean Scott",
+  "age": 44,
+  "address": {
+    "street": "Icwa Drive",
+    "city": "Namubsow",
+    "state": "CO",
+    "zip": "66719"
+  },
+  "contact": {
+    "phone": "(211) 469-2364",
+    "servicePhone": "800619947"
+  },
+  "birthday": "1987-11-25T10:43:38.147Z",
+  "ip": "88.218.169.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Lewav nug fiv wepmin cub afnoc nushus nimosok vabcak poreve jununpib finpi. Gid otosijoj deliv wasmo jazacri eg fugu cij biblezur vuhahvib uskove lasnan odiper zootva cezhanek cigoh puk. Igoek hame as muabuco guto haj bifelu net hanodovo su nodudwul nojahbe nuwucne nodoh. Cadmu vis hep retfo pahto pupofor alu vu new fit juhfuba pedatho bubokah puraira caw. Begkic tana tehij liahka izbef wakwuiz ifafo hasugu oso lase bopijdam ugutar romnig mopa joovi te. Dapkiznop apono houmwaj dicuhimu opbemdam pa rurgiimo miwo nirzefalo lekew pujud wuzeah ve mos mamkibo.",
+    "bio": "Nofmiop eznovciw kol sulaok unsi ne behanzuh ubuha ag pikkakoni fah ogu em nufajujic vu vaw. Ugolotaz attuvbo siffiz bijcef avkupfif gugief dabivuc kufal ep ev fojitnuj judtis eb odbamu ge. Ti buokeni sa je dudiva ojo pepatsa diwgipva ma wojfe zujekri misca mi. Pipocone oni loko udiidnu hotidkub gewjafgo wozrulano foknu owzurkiw du nohoc lize ikavin gukbuc zefapuki guvu ocapajsev. Hu loc tejowo cozga sa arewat lozfoweci vavetses wapuneha zondiw cuvelago vor ru al tolala ah pub. Olwircu febwa wij ef orabo kobudga fu ujiju lej ha neuv fegu wusit jeslog jokoti cifnuib ogu coboz."
+  },
+  "apiKey": "8404bfcd4350f908186d2b8b7859852ce85d3c4c4df6ee67794c25c82420878f",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
