@@ -1,0 +1,26 @@
+{
+  "name": "Lela Ortiz",
+  "age": 19,
+  "address": {
+    "street": "Raize Ridge",
+    "city": "Liduev",
+    "state": "IL",
+    "zip": "01190"
+  },
+  "contact": {
+    "phone": "(212) 520-9857",
+    "servicePhone": "800993777"
+  },
+  "birthday": "1990-07-30T15:09:45.596Z",
+  "ip": "240.213.101.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Kutolet hurgibdog ezbufbuv geori fijav ohgur azohuiz luz le ruv seikvu ed ow mukgaas sedbat omtugi. Jumaz wim ilurekez paczi gaszosho jarujan bek zucusdof oz bes bohu ob witov lefpaswu mifuhe usi. Zeirtad redis jori gog bapuz regzu kudebaz desid saga elwan leurafe bapulwel.",
+    "bio": "Recafat jomudfeg umiitji tepuhto hutam cufupi mefe la gumnursi oveicimu ug ipaibga je. Ca zamman ibipwip helup me bih fugfupuwa ocozakol bo hugtu uffazar vi akeperuk gulopol da ro pok zawlinos. Vazlel ucpec lactihoh honob vanorli fifituuk wugek litho huj fakuudo rasa vod cogimno onoamsaz zatju. Voedve baf fas surpi rasi hauha veew pefuj senve apavu louzeb as ifoaduiwo veziw nabfil pa mun neimolu. Unece puwil anogakub ubdoze onvuj ikgabse nubi de ig obbomuf soijade ajoitpe gerwa tujhiliv ajise kobtaw sunhagemo. Ildojud ha lur jahfu gol demuj nas fikutirip cijzi vup ruewu huko do kiitiwu."
+  },
+  "apiKey": "268ac8fe941c066b4e5f8c018c69d6262a866d4dd37242fc7a182052456a683d",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
