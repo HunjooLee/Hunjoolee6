@@ -1,0 +1,26 @@
+{
+  "name": "Clifford Kelley",
+  "age": 43,
+  "address": {
+    "street": "Johhe Center",
+    "city": "Decdummar",
+    "state": "AK",
+    "zip": "50296"
+  },
+  "contact": {
+    "phone": "(573) 605-8679",
+    "servicePhone": "800293481"
+  },
+  "birthday": "1993-02-03T05:51:24.757Z",
+  "ip": "125.84.91.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Doccaf juvebup pe bib niftaewo jezvah wo disa sehceij ozbupu roson zodi si doc zoz rut diwe av. Evjor ze zuviwu pac kag so ze ju uh riz fuderbum hit reoc il. Kolupwa noh gisodino azace pigci col saczot od zopmaka ak ta ne azmecoj ja egine.",
+    "bio": "Vu wiwejo imiekewa paapaaru kapekbut datdiigo cudo bogu po go ozeba oworigo. Mevku largeku ot bi kuztepiw giofibo ehe sof bohubag giufu lahez ebcolku gu wawgudota fenha. Hioti soh ajokomka odu ohud leugtas egaisu ojeve nic denugjop ehur ahje jahit vubafa anba bam. Fumpo mumvaj mul ej es lab pake womka dicugijov okoze wog giztil."
+  },
+  "apiKey": "beee2ea00f240a8a63024c23e9b281bec23ea2b6ba043f52b6d9ee8d6ae5f05d",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
