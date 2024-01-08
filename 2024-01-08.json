@@ -1,0 +1,26 @@
+{
+  "name": "Mitchell Barber",
+  "age": 22,
+  "address": {
+    "street": "Ujsi Street",
+    "city": "Peroca",
+    "state": "OR",
+    "zip": "48040"
+  },
+  "contact": {
+    "phone": "(564) 700-5827",
+    "servicePhone": "800943399"
+  },
+  "birthday": "1959-10-21T08:04:14.533Z",
+  "ip": "58.83.11.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Nantakzic zobuun goprutwob oloakagi jucawkel uwuwuggin ah atlapu mi povvo sum zinik kit enewipi. Abozliw sahbirat agvus vaav zan hupoke vulce poewfo fe ti hef zoofonu zafodu van oshowu buomu galiuz. Ehan hokereh di jepupzo jipmes ha pu pibkewa gonfewew duso oshe tec kaj navsah rug ufmarar. Vuwewo kulap riimien zead cehef locivwiw jeca eti veg ca woza mude vecuk lafnunec. Uru berino ude musad idamid sew fativ tofeul wu ru pinof mat beizi avwi. Iwo ova ibiavoce nik zozsadda wu re mekabol bi fouluus obzuc pibbum kose pajag oghu kut. Fuzeh suon mamu dulco nudo eluve wajvumho tunizo konuto zuoraroz cadapa zijug fu harlozruk.",
+    "bio": "Sefliremo urhogja uzeili zomuuhe upize suc pesucu jig jowceg jaheg lenma faop guf dofad galta somijij ho. Nuga va pir izniv vuhlahpoc hukob awu vikha ofec culfihzu riwazemo ha sugenu vo. Medged nogujku ka migfi min jo gis pa luwapil mefzi relap duvazgif ron dul tecsili hucmewab memaza zijvel."
+  },
+  "apiKey": "a278436c593579c970c3d4c5bf5913a61b5ecad53166b85547bf1c0dd3f78479",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
