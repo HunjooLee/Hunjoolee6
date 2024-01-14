@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Washington",
+  "age": 37,
+  "address": {
+    "street": "Tifric Extension",
+    "city": "Mibiip",
+    "state": "ME",
+    "zip": "81792"
+  },
+  "contact": {
+    "phone": "(286) 292-8581",
+    "servicePhone": "800917811"
+  },
+  "birthday": "1972-09-27T16:07:38.211Z",
+  "ip": "106.128.217.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Hosihsut kiszutat ve tif zovwup doub fe lejum kez guuwa ipurecij kul vew. Bizsorib he holcej olasoja iwsut takaigu vo ugoorowij rak ika ri nifukem kibago kupcoaf tuz upsig jovkec ritdeteme. Fussec bucapuk refe jum lemubuj pa mezze wo paktutu kuzuvozo gon revig.",
+    "bio": "Basbujo foldi ol wisi sepzah keut lih wemapej macedo jufu bipehse vidmo sofibsab jucfeb pumofa id. Isazafig fofida uteenhe jonog siife siico naabu gaovu rovdujwi fetavi bih hiptafcow jag. Nik kij rahe giuda neec orni ku sivegkir bic uzusavza voapalec ivo lajma jep zo da nipolul. Vamsoid nicmel nifa epobo avewit pawe hed ojfarud sopbe elocu ufuji ajanohug. Me gaculzu bobrioke wol ev lac utsap dolcug heteslit toddiobu egawuvjo bawuka igoeweku. Sefvu weunecov gurahge objo rafizuoro zivev pogdojcu tufacu deite meapre ki luupzuk jasuhej bojuka egatak."
+  },
+  "apiKey": "9a90f36651057649b00d9d46e2aef85d5b82ba4bcf3c5ba42c20e80b6f38d784",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
