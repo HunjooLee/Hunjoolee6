@@ -1,0 +1,26 @@
+{
+  "name": "Myra Wells",
+  "age": 45,
+  "address": {
+    "street": "Vohud Pike",
+    "city": "Milzimi",
+    "state": "CT",
+    "zip": "84539"
+  },
+  "contact": {
+    "phone": "(715) 920-9017",
+    "servicePhone": "800929236"
+  },
+  "birthday": "1984-08-26T23:55:20.828Z",
+  "ip": "38.64.34.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Eksej la ivasuste wodluas negzasew kugguvu ocpaku jiprawre arajew meumpi wutebep se hejaz erpuh liz cu zil. Nabsof vopwu likjoga tigbav fiptef jiapfac bude vohkita adoluzzo jaoksek owa omu tezlediz setnidej. Magfuki zolegkiz za agi pi utu cim zuhusfo pouh geb kenko ov geijizu zo hibuvdo ebew.",
+    "bio": "Ohepevgi omuhej nut geflog nimsom ror goz wa zak gumgozlun gereciru nokeka ted kov. Wesu komawan hi fucge wurzazeh suh weiwo evmagot kejufaro udapoce zo afnew gebofeno. Ninti nafokko taksasgoh laufvu palju bibuda hec edwumme hacicago dazjus lur pedwid eg rablic."
+  },
+  "apiKey": "e8498fe3de1a9d53f67c1f938b0937aed8c487c3632884a7d9c3fabb5e5a8f4b",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
