@@ -1,0 +1,26 @@
+{
+  "name": "Jennie Olson",
+  "age": 56,
+  "address": {
+    "street": "Ecaoj Street",
+    "city": "Hielobu",
+    "state": "KY",
+    "zip": "27924"
+  },
+  "contact": {
+    "phone": "(404) 979-9497",
+    "servicePhone": "800427657"
+  },
+  "birthday": "2001-04-25T17:05:35.503Z",
+  "ip": "23.144.117.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Jesgig im de gifki maz kipi bolave itona ugini jat ivoki duful nu cegi ifen. Mon zies zag agaagoje kaocakov ig zuba wopo ihorahu vevairi diudo devbumal. Veem zo wursar ji ukti tanob ze kiakihog cidci ge mu ejpo cafogke fuvsioz.",
+    "bio": "Busig zazribu suhikit budaze ogde uvaibite jigguv fudig ana oziaj gim mocod. Linip cusjus gi ken zetefave noz bomidmif sa lavto se jokol bowobpi peazefa. Wuklal mu omo ziwuwju enosul juppel micad catwit poniv maebif doguza ubizutpi."
+  },
+  "apiKey": "76b37e80a3a7f1718948de2aeef3c2140b0e9531b089a06bf56f16e3dd3d9225",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
