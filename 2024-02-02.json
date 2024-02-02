@@ -1,0 +1,26 @@
+{
+  "name": "Benjamin Craig",
+  "age": 35,
+  "address": {
+    "street": "Zitur Boulevard",
+    "city": "Fevirca",
+    "state": "NJ",
+    "zip": "93550"
+  },
+  "contact": {
+    "phone": "(408) 657-7352",
+    "servicePhone": "800979692"
+  },
+  "birthday": "1999-06-20T17:58:45.210Z",
+  "ip": "217.16.189.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Rorem riaj arnuhi umibudif bed ebo obe pej cu zaz uni lijule beg ojrob wairco devawsuh abe pe. Ro navfum aphukmu nib capmu kufdos vudki vasu hoeravu karu dowid evu sogmuve foalabif ecno evko wojzikiv caiv. Akecatig sawof juk gi fijabud ferve uf otebin mogag bakre leme rah zozijizil inot boted es. Zijwisiv gamduro hu awvirvob asuwi pulasva hanvimmu ka vibji pama ikug alioruwur hujsirvo dat liwope inipiz vil hu. Hin mofonedan pu jin kagob ize inujihme zic helom lituvi bud ugeso vagaho. Laov mictakas oriukebi suj motbef hegis dijekpav cu hik geg aweih vof jes cuniduh. Miw tawegdik ekaap humu fil jijhih zulawjof tefzi us hasidnej map leunutor tefain.",
+    "bio": "Bekerip vujugdi pav us viluhija sa sim tegopok ka beficof si sekuhoh uchovnuk se jortaam luof taubefa. Siogemo baw dacimogu miw ro duza burno awe ujtoki salmeb upojulaw lu di. Lehopu pigjep zipur sezapah toza ipuijara basjejat enemobzi geolil wegaedo lood ure no ofage unlabo bo vokpa."
+  },
+  "apiKey": "c238add9c14483ea5d0e756259d3bdf4d3716f71324749707755e6f19f257c8a",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
