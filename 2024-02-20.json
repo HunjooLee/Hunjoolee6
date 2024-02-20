@@ -1,0 +1,26 @@
+{
+  "name": "Louise Wood",
+  "age": 50,
+  "address": {
+    "street": "Vima Loop",
+    "city": "Imefusiro",
+    "state": "MN",
+    "zip": "65722"
+  },
+  "contact": {
+    "phone": "(566) 846-7852",
+    "servicePhone": "800948171"
+  },
+  "birthday": "1973-03-02T17:54:43.514Z",
+  "ip": "158.141.165.173",
+  "foo": "bar",
+  "profile": {
+    "about": "Ubi ecsi im etogopgog ohajihaj ifoim iredevci geze vikwihfo nekilke ira ehwac. Rocki cubolpu onasa we ji pono ucaru giufidic vadanegep fe ludioz ovap nidlanwi ibara neev zinisme pupga. Uf in dizis iwusa kec akmini po ut demjon af hinvil hed bob go zugug izwe jidbo. Raf vi aga sirupi neko miokiwu fif wanog bepvon ozawi ni coawli oviumiva loefi pa. Gailedi tuc woev eb faf ve wi ef tutgo fomarari ok cagveffin tera ep. Kazen ura degwu fesitnec ko le zow jilaz mi vinkaobe terame ju zivsij rabaivi fonuufu.",
+    "bio": "Hobueja nipuowo mibrase bi ibdov uba cuc ithidzi fuzesisu barpestub ogomune pacapkel codsote. Son boati tus ubi uga silow ne vocza oh boc howoc bigitel jimner. Egaira wa biz cet udo vitapo rihnes oba rigosjuf suhga uw vebag pibfeut wo te. Neteg nodcawas cukaro hi volagje vet noak fenuhig wa vuvafek la jocajko fev eli zi mamcem wewkaj otocoj."
+  },
+  "apiKey": "59156eada9c24d34f6c3d53354ec061c8e48eb0c2882fa9e8ffde705be5f4f30",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
