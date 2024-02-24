@@ -1,0 +1,26 @@
+{
+  "name": "James Fernandez",
+  "age": 20,
+  "address": {
+    "street": "Gopa Lane",
+    "city": "Ebawju",
+    "state": "MN",
+    "zip": "16359"
+  },
+  "contact": {
+    "phone": "(645) 492-4872",
+    "servicePhone": "800783914"
+  },
+  "birthday": "1972-05-09T21:34:00.804Z",
+  "ip": "14.142.193.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Ode hoptespo muki if daloneko nozisuku jek taftod vovdemot si dal gewanas. Tuh me gejra fap sup rotwawso vuzuema jeblitaw radi kawhurci jene jug gok aga. Atuka luvevef inu zowta jaebame let ma oheigo ruk zapujesaz fibi mul kepu ohu was ecepa.",
+    "bio": "Cu fek tame wenu nawuzuh fizun zaopi li tairi of cefo updorpic ta ode muik rezfezi jekuf. To rep mofrudli kanzumcas ze kifukwid oweweceg tag tezhu fudrigid wepa rosrozihi cobin durho patile ajoittab tel. Siwebuuv tamaw nan pikedu um cak jesoc nun bushus lizik ufuhokrup tizlogho avato ka. Cinenop get ridtuhi pe fu reowmo atogew lidvoza dupod seci fo bibfopi."
+  },
+  "apiKey": "577d97fe9c6f290e12b5746afad65dc4f3403fdee45d723e9bcccf628c86238a",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
