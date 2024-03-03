@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Burns",
+  "age": 48,
+  "address": {
+    "street": "Vafre Drive",
+    "city": "Ducofca",
+    "state": "NY",
+    "zip": "30673"
+  },
+  "contact": {
+    "phone": "(576) 288-6759",
+    "servicePhone": "800942446"
+  },
+  "birthday": "1997-08-10T15:53:39.384Z",
+  "ip": "25.205.47.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Dergilos weju nebah kof poskuzoh bimejo puibzo kodkadit aw te ro nigaubo souraho. Sa liwamiro jubroriso hapfi celgow geg etozme zapuho urkoh vopwead fufpep lewup. Gicmotuc fu habar beh ba nomilmo huh odpel na debpak noci upuc javjon dup vutuw. Muwuvur po gi foc opa jukbi anonisi pucezupam pefmamjo womveknek tosijid oghibew helhebo do kir.",
+    "bio": "Lonbeh mezva nor taba afjo loj reoppum tenicwo fi vicod juciv cime bavu hoabifu gasako gihra egucu. Ja ja rij ijige makiz ine etaboh ni gutfowol gahuri fonirep dupa hihubrek pipujse ibuohomi fe up. Pomgunfaw hocu webew jah zu jicizok bupuscu go tiha gakca pasfof vuc soopa oni raj gos. Junma jinom bomhep ve sa ri ja rukufi isje rejof rok ro zot wupim boeceho ebupe lowocuh loesod."
+  },
+  "apiKey": "ef20ac27136723468ccfc7b37ade091d51a6c21fddbbea527a0d2c357ec694e5",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
