@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Higgins",
+  "age": 65,
+  "address": {
+    "street": "Jurpi Circle",
+    "city": "Kezladlu",
+    "state": "MN",
+    "zip": "51932"
+  },
+  "contact": {
+    "phone": "(930) 721-8198",
+    "servicePhone": "800957915"
+  },
+  "birthday": "1973-10-06T12:36:02.672Z",
+  "ip": "102.64.219.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Wulvezru mukud ri iplat upubi goefo fatuk moticvaz deaju oge waticgi zurkac. Fubeedi pahi hewi nuci zupfuru oz sog loirdov tip deeki mejuk pe likigaj ze bawla iv. Cog nu hucwefu uwuimti dug vidujiw fen fagbe depdawru duccablic arrorum kahulak cita dolwipjar bifvojfar.",
+    "bio": "Rupres itavi vuvvum ti efu sarjadvak jud kumcofut daf ceunse febucte ri sid kef ku amicih. Ogehid hav mo ohguz doso oj mar ipnuj vor apief igade ke bib sa rasfuv vacehu. Roh ciw nucaja mangum ralhoju dergi namavo patake kezokac okdoz jomep kog ir ra ri iji fioj emuniso. Ontib dumif ana bu huv dam to viwdeoha nesaffu wej asuwaj kecnoko."
+  },
+  "apiKey": "636ef0ca912e13bd529e02e03a5db48f74d154d5783e7491beda61313f167d3c",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
