@@ -1,0 +1,26 @@
+{
+  "name": "Erik Wilkins",
+  "age": 25,
+  "address": {
+    "street": "Kemup River",
+    "city": "Gugcilso",
+    "state": "MN",
+    "zip": "21185"
+  },
+  "contact": {
+    "phone": "(432) 620-9773",
+    "servicePhone": "800788751"
+  },
+  "birthday": "2004-07-26T10:49:13.048Z",
+  "ip": "121.163.122.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Neovzi imiso killa hez cuwuz rooj cuf kok bissimva pij cebsoh abnuano bassa ivco madfesu egilo amvi. Umupi kajidow gubuili nuv upuab cupnicpar lew idfiuc ekgifjoj mo ejfiv sidabu asa jaf fekuc ger nemor he. Jor cecpolref wupcinuk tesiha damfi aj gacmez cuzoah wufcu pa kankuper bo ac em goite oneod izinimkoz.",
+    "bio": "Geufa om felpa koznujed ivavohwed kuvelfe niraho pappedapa ohhese deizakig gaspanwar kantim dencav wemimud tarkiki seewa gihcefiv acawodpas. Fec cec owgiav onvet gi bu tan deop apinobap ge zufukuwa dovgis futemisag so tocsubow. Girak moznahuc ut ab coiwa cide loanu sivnanulo cu enikifmi ruvom upu. Abzazpo ilegir coniama hik sapkagzu ut sebcoc gol cevpu miz juvu nalzieh eni das udikuguf cerbewe uniebefa ligabe. Sojipefe baz eriza hijzirjo nu matirzi hetbu ur utbetar esdatkuz juz sutuvafe jemgecnal pogdefe dul."
+  },
+  "apiKey": "d3f9bc2bea00d29a00c6933539e2dd1c063f6d27b6ff33a0cb4837b0ef8285f0",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
