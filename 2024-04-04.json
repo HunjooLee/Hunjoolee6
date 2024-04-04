@@ -1,0 +1,26 @@
+{
+  "name": "Lelia Hicks",
+  "age": 29,
+  "address": {
+    "street": "Aponac View",
+    "city": "Gaphage",
+    "state": "AR",
+    "zip": "79806"
+  },
+  "contact": {
+    "phone": "(680) 575-6969",
+    "servicePhone": "800362654"
+  },
+  "birthday": "1969-08-16T05:40:44.039Z",
+  "ip": "159.107.251.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Pel toflopbi hupcew gah mutzusfa toc pizvapvuw rerali par joro amhuja li juhecpok itgufap. Ge sun huimafuh sacgikod ico ragu tir bab pigarugo agoucge fivdan powi iz ujouvca. Si rude vi rupafo nucjum vo uvouhihi nab igurigul cor uziwis fi birho kiaz te lev gi uno.",
+    "bio": "Gembaoru sapgos ukihoru fi pe opaarovar vazcup to embeffa bukehra ogur koson ru. Paridu mowohi furu zup gowduwam je ume tavu fu hetjizgo bolleha guwridow. Jieta go sowa nu lieme ichahot wo ke widzihto buwcun je colgupto ise wagad ence livef zulbo. Jud ji tak mur tonada se jawom paacoev mujucir huv iwu avuwusa wohhute dah."
+  },
+  "apiKey": "e8b861380e8bcc524855248bc59a3c9ab547cbf336759cc53948aeaa573f4f74",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
